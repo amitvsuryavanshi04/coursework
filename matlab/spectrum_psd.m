@@ -1,3 +1,5 @@
+%To open code live in matlab complier use link given below
+%https://drive.mathworks.com/sharing/12a84578-1ed3-452a-bf2a-f0ae7be40a2e 
 %Generate a 5Hz signal of 1 sec duration sampled at 100 Hz
 t = 0:0.01:1;
 x = sin(2*pi*5*t);
